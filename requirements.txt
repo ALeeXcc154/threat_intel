@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+anyio
+requests
+python-docx
